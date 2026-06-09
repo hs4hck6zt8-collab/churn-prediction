@@ -1,0 +1,21 @@
+# Data
+pandas==2.2.3
+numpy==1.26.4
+
+# ML
+scikit-learn==1.5.0
+lightgbm==4.3.0
+catboost==1.2.5
+shap==0.45.0
+
+# API
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# Utils
+python-dotenv==1.0.1
+joblib==1.4.2
+
+# Dev
+jupyter==1.0.0
+notebook==7.2.0
